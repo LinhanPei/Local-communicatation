@@ -1,0 +1,1 @@
+Please don't enter the first space '!' in send/reply message.
